@@ -1,0 +1,47 @@
+/*!
+ * CyberPatriot Custom Styles
+ * Copyright 2014-2015
+ * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
+ */
+
+/*CUSTOM COLORS*/
+
+.CP-primary-light {
+  background-color: #205493 !important;
+}
+.CP-primary {
+  background-color: #112e51 !important;
+}
+.CP-primary-dark {
+  background-color: #010F1F !important;
+}
+
+.CP-secondary-light {
+  background-color: #e1484c !important;
+}
+.CP-secondary {
+  background-color: #cd2026 !important;
+}
+.CP-secondary-dark {
+  background-color: #981b1e !important;
+}
+
+.CP-accent-light {
+  background-color: #d6d7d9 !important;
+}
+.CP-accent {
+  background-color: #aeb0b5 !important;
+}
+.CP-accent-dark {
+  background-color: #5b616b !important;
+}
+
+.CP-accent-2-light {
+  background-color: #fad980 !important;
+}
+.CP-accent-2 {
+  background-color: #f9c642 !important;
+}
+.CP-accent-2-dark {
+  background-color: #fdb81e !important;
+}

@@ -35,6 +35,15 @@
 .CP-accent-dark {
   background-color: #5b616b !important;
 }
+.CP-accent-header-text {
+	color: #d6d7d9;
+	font-family: 'Exo', sans-serif;
+	font-weight: bold;
+}
+.CP-accent-text {
+	color: #d6d7d9;
+	font-family: 'Exo', sans-serif;
+}
 
 .CP-accent-2-light {
   background-color: #fad980 !important;
@@ -44,4 +53,28 @@
 }
 .CP-accent-2-dark {
   background-color: #fdb81e !important;
+}
+
+.header-font {
+	font-family: 'Exo', sans-serif;
+	font-weight: bold;
+	font-size: 32px;
+	color: #aeb0b5;
+}
+
+.subheader-font {
+	font-family: 'Exo', sans-serif;
+	font-weight: normal;
+	font-size:18px;
+	color: #aeb0b5;
+}
+
+.header-bg-img {
+	background-image:url(../rsc/img/image17591.jpg);
+	background-size: cover;
+}
+
+.header-logo-img {
+	height: 60px;
+	width: auto;
 }
